@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi, I'm Alex 👋
+
+
+<a href="https://www.linkedin.com/in/asolonevich/">
+  <img align="left" alt="Alex's LinkedIn" width="22px" src="https://github.com/alexcocoa/alexcocoa/blob/main/linkedin.svg" />
+</a>
+
 
 <!--
 

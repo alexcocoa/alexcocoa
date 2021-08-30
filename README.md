@@ -1,42 +1,19 @@
 ### Hi, I'm Alex 👋
 
-<p>
-<a href = "mailto:alexander.solonevich+github@gmail.com?subject=Feedback from GitHub">
-  <img width="22px" src="https://github.com/alexcocoa/alexcocoa/blob/main/email.png" />
-</a>
-  
-<a href="https://www.linkedin.com/in/asolonevich/">
-  <img alt="Alex's LinkedIn" width="22px" src="https://github.com/alexcocoa/alexcocoa/blob/main/linkedin.svg" />
-</a>
-  
-<img src="https://visitor-badge.glitch.me/badge?page_id=alexcocoa.alexcocoa" alt="visitor badge"/>
- 
-  
+* I'm currently learning all about Swift and SwiftUI
+* I'm a full stack .NET developer with a 9 years of experience
+* I'm looking for an new opportunities/job in the iOS app development
+* I've been a tech enthusiast all my life, just love playing around new things, technologies etc. Using Apple ecosystem for over a decade (yes, despite the fact all that time I was using Windows-based machines at work)
 
-  
-  
-</p>
+Find out more about me & feel free to connect with me here:
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/asolonevich/)](https://www.linkedin.com/in/asolonevich/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=gmail&logoColor=white&link=mailto:hsl131987@gmail.com)](mailto:hsl131987@gmail.com)
+
+
+
 
 
 <!--
-
-![](https://visitor-badge.glitch.me/badge?page_id=alexcocoa.alexcocoa)
-
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+![Visitor Badge](https://komarev.com/ghpvc/?username=iosolonevich&label=VC&color=grey&style=flat-square)
 -->
-
-
-
-
-
-

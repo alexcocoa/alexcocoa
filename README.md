@@ -1,9 +1,6 @@
 ### Hi, I'm Alex 👋
 
-* I'm currently learning all about Swift and SwiftUI
-* I'm a full stack .NET developer with a 9 years of experience
-* I'm looking for an new opportunities/job in the iOS app development
-* I've been a tech enthusiast all my life, just love playing around new things, technologies etc. Using Apple ecosystem for over a decade (yes, despite the fact all that time I was using Windows-based machines at work)
+* currently learning Combine and [pointfree's TCA](https://www.pointfree.co/collections/composable-architecture)
 
 Find out more about me & feel free to connect with me here:
 
